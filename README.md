@@ -5,7 +5,7 @@ Sites Intelligence is a clinical trial site selection platform. It helps sponsor
 The backend (`sites-intelligence-be`) is a Django REST API that combines structured trial data, graph/relational queries, ETL-fed reference catalogs, and LLM-assisted analysis.
 
 ---
-
+ 
 ## What the Platform Does
 
 | Capability | Description |
